@@ -1,0 +1,20 @@
+/*********************************************
+ * OPL 20.1.0.0 Data
+ * Author: lcres
+ * Creation Date: 18 de mai de 2023 at 19:02:54
+ *********************************************/
+
+Nt = 4;  // numero de fases do regenerador
+Nr = 4;
+
+TP[I][T] = [  /temperatura prevista do regenerador I no tempo T
+[? ? ? ?],
+[? ? ? ?],
+[? ? ? ?],
+[? ? ? ?]];  
+
+a1 = ?;
+a2 = ?;
+a3 = ?;
+a4 = ?;
+a5 = ?;
